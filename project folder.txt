@@ -1,0 +1,28 @@
+/kkhsou-query-system
+    /css
+        - style.css
+    /js
+        - script.js
+    /views
+        - index.php
+        - register.php
+        - login.php
+        - faq.php
+        - dashboard.php
+    /admin
+        - admin_dashboard.php
+    /includes
+        - header.php
+        - footer.php
+        - db.php
+        - functions.php
+    /tickets
+        - create_ticket.php
+        - view_ticket.php
+    /admin
+        - manage_tickets.php
+        - manage_users.php
+    /config
+        - config.php
+    /sql
+        - schema.sql
